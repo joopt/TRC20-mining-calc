@@ -1,2 +1,2 @@
 # TRC20-mining-calculator
-Calculator for mining TRX or IOST tokens
+Mining cost calculator for TRX or IOST tokens
